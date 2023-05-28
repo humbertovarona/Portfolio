@@ -401,46 +401,47 @@
   <tr>
   <th><a href="https://www.udemy.com/certificate/UC-dcb54c61-17d5-4438-8775-4a2fe5eef73d/">Docker and Kubernetes: The Complete Guide</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-b262d205-e5f5-4039-9dd5-58300e43b0da/">Inteligencia Artificial y Deep Learning desde cero en Python</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-b262d205-e5f5-4039-9dd5-58300e43b0da/">Inteligencia Artificial y Deep Learning desde cero en Python</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-5aab1e46-b832-444d-9b39-4905543902be/">Pronósticos de Series de Tiempo con Python</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-5aab1e46-b832-444d-9b39-4905543902be/">Pronósticos de Series de Tiempo con Python</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-f452102a-d2dc-4706-b9bc-94af919c6799/">Pascal, Lazarus e MariaDB</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-d0876c41-985a-4ce6-82d1-8860891dff97/">Deep Learning con Python y Keras. Redes Neuronales avanzado</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-f452102a-d2dc-4706-b9bc-94af919c6799/">Pascal, Lazarus e MariaDB</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-b18bd12a-5f1c-4cc3-9ccf-a2fd542714b1/">Tensorflow 2.0: Guía completa para el Nuevo Tensorflow</a></th>
+  <tr>
+  <th></tr>
+  <a href="https://www.udemy.com/certificate/UC-fd82076f-e043-4dbe-854a-a2802a6ffa97/">Machine Learning con Arduino y Tensorflow 2.0 Keras</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-dd080368-c32a-44b5-94ec-d86b64aeecd1/">Linux Redhat Certified System Administrator (RHCSA - EX200)</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-d0876c41-985a-4ce6-82d1-8860891dff97/">Deep Learning con Python y Keras. Redes Neuronales avanzado</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-1025b64f-3224-4487-be10-6f9aaeb3a05b/">TensorFlow, Deep Learning e Python: Construa um Chatbot</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-10b03499-9af1-4d00-8744-8128289ed1ed/">Curso Práctico de Qt/PySide: Interfaces Gráficas con Python</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-b18bd12a-5f1c-4cc3-9ccf-a2fd542714b1/">Tensorflow 2.0: Guía completa para el Nuevo Tensorflow</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-4ea81e32-26d6-4427-ac19-f37b9967d5f3/">Procesamiento del Lenguaje Natural Moderno en Python</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-5a365a1d-1191-4909-a739-606e7334b417/">Análisis de Sentimientos en Redes Sociales con Python</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-fd82076f-e043-4dbe-854a-a2802a6ffa97/">Machine Learning con Arduino y Tensorflow 2.0 Keras</a></th>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-19984baf-a315-41d5-8648-aa3ff9587d18/">Aprenda Redis</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-dfed1c69-8cb4-4328-9b42-a748d93a4beb/">Reconhecimento de Emoções com TensorFlow 2.0 e Python</a></th>
   </tr>
-  th><a href="https://www.udemy.com/certificate/UC-dd080368-c32a-44b5-94ec-d86b64aeecd1/">Linux Redhat Certified System Administrator (RHCSA - EX200)</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-1025b64f-3224-4487-be10-6f9aaeb3a05b/">TensorFlow, Deep Learning e Python: Construa um Chatbot</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-10b03499-9af1-4d00-8744-8128289ed1ed/">Curso Práctico de Qt/PySide: Interfaces Gráficas con Python</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-4ea81e32-26d6-4427-ac19-f37b9967d5f3/">Procesamiento del Lenguaje Natural Moderno en Python</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-5a365a1d-1191-4909-a739-606e7334b417/">Análisis de Sentimientos en Redes Sociales con Python</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-19984baf-a315-41d5-8648-aa3ff9587d18/">Aprenda Redis</a></th>
-  </tr>
-  </tr>
-  th><a href="https://www.udemy.com/certificate/UC-dfed1c69-8cb4-4328-9b42-a748d93a4beb/">Reconhecimento de Emoções com TensorFlow 2.0 e Python</a></th>
-  </tr>
-  </tr>
-  th><a href=""></a></th>
+  <tr>
+  <th><a href=""></a></th>
   </tr>
   </table>
 </div>
