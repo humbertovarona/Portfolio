@@ -296,109 +296,109 @@
   </tr>
   <th><a href="https://www.udemy.com/certificate/UC-9ea9c9b9-8e84-4968-8447-e7af8496f049">Utilizar Redes Neuronales para predecir Series Temporales</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-a196cc51-f614-4691-8c2d-6b8cbcb3a234/">MACHINE LEARNING 2022 Y REDES NEURONALES CON PYTHON DE CERO</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-871bb1a4-4f25-4e18-8370-5c8f7892bb48/">Curso avanzado de estadística multivariante con R y Python</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-87563bbb-9c6e-4ad3-b7b8-7491cb067932/">Python Fullstack Senior Developer</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-29b64ab4-e860-435c-8d96-94a41c057485/">Estatística para Ciência de Dados e Machine Learning</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-4fd6568f-39b9-4bfa-879e-e3d844fbb8c2/">DBA MySQL</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-f91287b4-fb98-4a0b-ae56-b7fce3bf9b4f/">Certificação Python</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-cfc49076-e746-4b18-8869-378bd296990c/">Formação Cientista de Dados: O Curso Completo [2022]</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-97ced390-3b61-4d06-8bc6-ceaf1c2cdd8c/">Ciência de Dados para Empresas e Negócios</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-2406114d-d293-4c30-aff6-678bb0353ad6/">Deep Learning de A a Z:redes neuronales en Python desde cero</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-cb80c9d4-b80d-48f4-9e4b-e55f36befc8d/">Apache Spark con Python - Aprende Big Data desde Cero</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-bb4f20cd-1e03-427c-ad75-883325a1a951/">PYSPARK: Utilizando SPARK e Python para analisar dados</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-14fb24ac-cce9-4c44-9a18-8f70b132f2af/">Curso práctico de Big Data con Hadoop y Spark desde cero</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-e8b34c7e-b74a-45be-8d7a-749668d191ca/">Domine Apache Kafka, Fundamentos e Aplicações Reais [2022]</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-77b87ef3-9c82-47d7-9ddf-07660cefe80d/">Mastering Apache Cassandra Developer and Admin from Scratch</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://mooc.ifpa.edu.br/certificate/7KgH_z_I">UX e UI Design</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-19a61a92-0d30-4187-bb88-7407e3cf7496/">The Complete C++ Developer Course</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-3bd34c34-a2c6-4337-82a6-5f2166f0c9e2/">Curso maestro de Web Scraping: Extracción de Datos de la Web</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-9af5feee-3f5a-4033-ab2a-6f9c91a151b6/">Delphi Fundamental (Desenvolva Delphi,Firebrid,Relatórios)</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-d2b3d86b-e01d-4f7b-8d94-9d426ab2335f/">C# Curso Completo: Do Básico ao Avançado!</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-d5d6c2c7-c83d-4048-92a6-93a1c17f6ab7/">Matemática Financeira Completa</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-1d7e8689-c5da-4545-9913-3bbb52f0ecec/">Python para Finanças: Análise de Dados e Machine Learning</a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href="https://www.udemy.com/certificate/UC-b5700ac0-c66d-41d6-8e95-fc8892c8cacc/">Analítica de Datos para la Toma de Decisiones</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-91eeb970-8ef6-444b-8bc5-b02595d6fe26/">Linux Administration with Troubleshooting Skills: Hands-On</a></th>
   </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-7119293f-be5c-4c5e-ab28-ce88e000d2f2/">Instalación y configuración de Windows Server 2016 / 2019</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-87105e54-a886-41f0-8d69-70dbc445d7e8/">Arduino Step by Step More than 50 Hours Complete Course</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-58e23c7d-d762-4585-8ba7-8f864360d6d1/">Domine Administração de Bancos de Dados com DB2 IBM</a></th>
+  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
-  </tr>
-  <th><a href=""></a></th>
-  </tr>
-  </tr>
-  <th><a href=""></a></th>
-  </tr>
-  </tr>
-  <th><a href=""></a></th>
-  </tr>
-  </tr>
-  <th><a href=""></a></th>
-  </tr>
-  </tr>
+  <tr>
   <th><a href=""></a></th>
   </tr>
   </table>
