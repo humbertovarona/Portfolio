@@ -6,9 +6,7 @@
 
 ## Idioms
 
-<img src="https://img.icons8.com/?size=512&id=18099&format=png" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=15509&format=png" width="50"/>
-<img src="https://img.icons8.com/?size=512&id=15534&format=png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=18099&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=15509&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=15534&format=png" width="50"/>
 
 ## Programming language
 
