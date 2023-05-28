@@ -415,9 +415,9 @@
   </tr>
   <tr>
   <th><a href="https://www.udemy.com/certificate/UC-b18bd12a-5f1c-4cc3-9ccf-a2fd542714b1/">Tensorflow 2.0: Guía completa para el Nuevo Tensorflow</a></th>
+  </tr>
   <tr>
-  <th></tr>
-  <a href="https://www.udemy.com/certificate/UC-fd82076f-e043-4dbe-854a-a2802a6ffa97/">Machine Learning con Arduino y Tensorflow 2.0 Keras</a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-fd82076f-e043-4dbe-854a-a2802a6ffa97/">Machine Learning con Arduino y Tensorflow 2.0 Keras</a></th>
   </tr>
   <tr>
   <th><a href="https://www.udemy.com/certificate/UC-dd080368-c32a-44b5-94ec-d86b64aeecd1/">Linux Redhat Certified System Administrator (RHCSA - EX200)</a></th>
