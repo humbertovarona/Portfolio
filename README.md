@@ -46,7 +46,7 @@
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/finitediff">finitediff</a></td>
-    <td><Computes tde derivatives in X and Y from a regular grid using finite differences</td>
+    <td>Computes tde derivatives in X and Y from a regular grid using finite differences</td>
     <td>Python</td>
   </tr>
   <tr>
