@@ -531,7 +531,10 @@
   <th><a href="https://www.udemy.com/certificate/UC-57c23b07-4b7d-48c9-a8e6-b3041330d490/">Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-468e3368-a5f4-4dbf-b584-5f67c3607ccf/">Curso para Certificação de Testes - CTFL - ISTQB/BSTQB</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-2b8bc7ce-0d51-4652-882e-78531b024228/">Gestão Ágil com Scrum, Kanban & Nexus: O Guia Definitivo)</a></th>
   </tr>
   </table>
 </div>
