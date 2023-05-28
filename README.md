@@ -291,5 +291,43 @@
   <tr>
     <th><a href="https://www.udemy.com/certificate/UC-aef7c557-f43e-4cd7-bcc3-19fe8c01cddd/">DBA PostgreSQL</a></th>
   </tr>
+  <tr>
+    <th><a href="https://www.udemy.com/certificate/UC-d67932f7-2c36-400e-a463-0ff42f6a4693/">Data Science using Machine Learning Algorithm with Big Data</a></th>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-9ea9c9b9-8e84-4968-8447-e7af8496f049">Utilizar Redes Neuronales para predecir Series Temporales</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-a196cc51-f614-4691-8c2d-6b8cbcb3a234/">MACHINE LEARNING 2022 Y REDES NEURONALES CON PYTHON DE CERO</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-871bb1a4-4f25-4e18-8370-5c8f7892bb48/">Curso avanzado de estadística multivariante con R y Python</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-87563bbb-9c6e-4ad3-b7b8-7491cb067932/">Python Fullstack Senior Developer</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-29b64ab4-e860-435c-8d96-94a41c057485/">Estatística para Ciência de Dados e Machine Learning</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-4fd6568f-39b9-4bfa-879e-e3d844fbb8c2/">DBA MySQL</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-f91287b4-fb98-4a0b-ae56-b7fce3bf9b4f/">Certificação Python</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-cfc49076-e746-4b18-8869-378bd296990c/">Formação Cientista de Dados: O Curso Completo [2022]</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-97ced390-3b61-4d06-8bc6-ceaf1c2cdd8c/">Ciência de Dados para Empresas e Negócios</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-2406114d-d293-4c30-aff6-678bb0353ad6/">Deep Learning de A a Z:redes neuronales en Python desde cero</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-cb80c9d4-b80d-48f4-9e4b-e55f36befc8d/">Apache Spark con Python - Aprende Big Data desde Cero</a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
   </table>
 </div>
