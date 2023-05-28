@@ -38,241 +38,241 @@
 ## Developed software list
 
 <div style="overflow-x: auto;">
-<table style="width:100%">
+<table style="widtd:100%">
   <tr>
-    <th>Repository name</th>
-    <th>Description</th>
-    <th>Language</th>
+    <th align="left">Repository name</td>
+    <th align="left">Description</td>
+    <th align="center">Language</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/finitediff">finitediff</a></th>
-    <th><Computes the derivatives in X and Y from a regular grid using finite differences/th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/finitediff">finitediff</a></td>
+    <td><Computes tde derivatives in X and Y from a regular grid using finite differences/td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/SciFig">SciFig</a></th>
-    <th>Software to compose figures for scientific articles</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/SciFig">SciFig</a></td>
+    <td>Software to compose figures for scientific articles</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/SensorViewer">SensorViewer</a></th>
-    <th>Software for recording measurements made by sensors</th>
-    <th>Java (Processing)</th>
+    <td><a href="https://gitdub.com/humbertovarona/SensorViewer">SensorViewer</a></td>
+    <td>Software for recording measurements made by sensors</td>
+    <td>Java (Processing)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/UnitConversions">UnitConversions</a></th>
-    <th>Java Student Demo, Case Study: UnitConverterApp</th>
-    <th>Java</th>
+    <td><a href="https://gitdub.com/humbertovarona/UnitConversions">UnitConversions</a></td>
+    <td>Java Student Demo, Case Study: UnitConverterApp</td>
+    <td>Java</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/ChgImgColor">ChgImgColor</a></th>
-    <th>Changing colors in images</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/ChgImgColor">ChgImgColor</a></td>
+    <td>Changing colors in images</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/findImageLabel">findImageLabel</a></th>
-    <th>Check if an image contains a label</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/findImageLabel">findImageLabel</a></td>
+    <td>Check if an image contains a label</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/NC_to_CSV">NC_to_CSV</a></th>
-    <th>Convert NetCDF file into CSV file</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/NC_to_CSV">NC_to_CSV</a></td>
+    <td>Convert NetCDF file into CSV file</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/TempConvFnt">TempConvFnt</a></th>
-    <th>Temperature conversion functions</th>
-    <th>R</th>
+    <td><a href="https://gitdub.com/humbertovarona/TempConvFnt">TempConvFnt</a></td>
+    <td>Temperature conversion functions</td>
+    <td>R</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/R_bargraph">R_bargraph</a></th>
-    <th>Plot and save a bar graph highlighting the minimum and maximum values</th>
-    <th>R</th>
+    <td><a href="https://gitdub.com/humbertovarona/R_bargraph">R_bargraph</a></td>
+    <td>Plot and save a bar graph highlighting tde minimum and maximum values</td>
+    <td>R</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></th>
-    <th>Python algorithm to convert a Gregorian date into a Julian date</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/greg2jul">greg2jul</a></td>
+    <td>Pytdon algoritdm to convert a Gregorian date into a Julian date</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/viewShapefile">viewShapefile</a></th>
-    <th>View Shapefile and save them to an image</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/viewShapefile">viewShapefile</a></td>
+    <td>View Shapefile and save tdem to an image</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/resizeImage">resizeImage</a></th>
-    <th>Resize images by changing their resolution and dimensions</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/resizeImage">resizeImage</a></td>
+    <td>Resize images by changing tdeir resolution and dimensions</td>
+    <td>Pytdon</td>
   </tr>
     <tr>
-    <th><a href="https://github.com/humbertovarona/videoAnimator">videoAnimator</a></th>
-    <th>Create animations from images</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/videoAnimator">videoAnimator</a></td>
+    <td>Create animations from images</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></th>
-    <th>Package source code by removing comments and blank lines</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></td>
+    <td>Package source code by removing comments and blank lines</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/OHC-FOI">OHC-FOI</a></th>
-    <th>An algorithm for Computing the Ocean Heat Content</th>
-    <th>Matlab</th>
+    <td><a href="https://gitdub.com/humbertovarona/OHC-FOI">OHC-FOI</a></td>
+    <td>An algoritdm for Computing tde Ocean Heat Content</td>
+    <td>Matlab</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/fjul2greg">fjul2greg</a></th>
-    <th>Fortran 90 subrutine to convert a Julian date into a Gregorian date </th>
-    <th>Fortran 90</th>
+    <td><a href="https://gitdub.com/humbertovarona/fjul2greg">fjul2greg</a></td>
+    <td>Fortran 90 subrutine to convert a Julian date into a Gregorian date </td>
+    <td>Fortran 90</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/fgreg2jul">fgreg2jul</a></th>
-    <th>Fortran 90 subrutine to convert a Gregorian date into a Julian date </th>
-    <th>Fortran 90</th>
+    <td><a href="https://gitdub.com/humbertovarona/fgreg2jul">fgreg2jul</a></td>
+    <td>Fortran 90 subrutine to convert a Gregorian date into a Julian date </td>
+    <td>Fortran 90</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/simple_TicTacToe">simple_TicTacToe</a></th>
-    <th>A simple example of Tic Tac Toe in Java language (Apache Netbean project)</th>
-    <th>Java</th>
+    <td><a href="https://gitdub.com/humbertovarona/simple_TicTacToe">simple_TicTacToe</a></td>
+    <td>A simple example of Tic Tac Toe in Java language (Apache Netbean project)</td>
+    <td>Java</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/jul2greg">jul2greg</a></th>
-    <th>Python algorithm to convert a Julian date into a Gregorian date</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/jul2greg">jul2greg</a></td>
+    <td>Pytdon algoritdm to convert a Julian date into a Gregorian date</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/GPS-NEO7M">GPS-NEO7M</a></th>
-    <th>Use of GPS NEO7M module on Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/GPS-NEO7M">GPS-NEO7M</a></td>
+    <td>Use of GPS NEO7M module on Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Screen16x2">Screen16x2</a></th>
-    <th>Simple tests with Screen 16x2 and random numbers</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/Screen16x2">Screen16x2</a></td>
+    <td>Simple tests witd Screen 16x2 and random numbers</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Adafruit_BME280">Adafruit_BME280</a></th>
-    <th>Testing with the Adafruit BME280 shield on Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/Adafruit_BME280">Adafruit_BME280</a></td>
+    <td>Testing witd tde Adafruit BME280 shield on Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/ArduinoWebServer_W5100">ArduinoWebServer_W5100</a></th>
-    <th>Arduino WebServer with W5100 shield</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/ArduinoWebServer_W5100">ArduinoWebServer_W5100</a></td>
+    <td>Arduino WebServer witd W5100 shield</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/LDRsensor">LDRsensor</a></th>
-    <th>LDR with LCD screen 16x2 on Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/LDRsensor">LDRsensor</a></td>
+    <td>LDR witd LCD screen 16x2 on Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/GPSLogger">GPSLogger</a></th>
-    <th>GPS Logger with SD card on Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/GPSLogger">GPSLogger</a></td>
+    <td>GPS Logger witd SD card on Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Charge_level_meter">Charge_level_meter</a></th>
-    <th>Charge level meter in 9v batteries with Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/Charge_level_meter">Charge_level_meter</a></td>
+    <td>Charge level meter in 9v batteries witd Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Pressure_sensor_12Bar">Pressure_sensor_12Bar</a></th>
-    <th>Pressure sensor test with GPS on Arduino</th>
-    <th>C++ (Arduino)</th>
+    <td><a href="https://gitdub.com/humbertovarona/Pressure_sensor_12Bar">Pressure_sensor_12Bar</a></td>
+    <td>Pressure sensor test witd GPS on Arduino</td>
+    <td>C++ (Arduino)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/AppRuntimeCompute">AppRuntimeCompute</a></th>
-    <th>Application to compute the execution time of a software in a linux or macOS terminal</th>
-    <th>Bash script</th>
+    <td><a href="https://gitdub.com/humbertovarona/AppRuntimeCompute">AppRuntimeCompute</a></td>
+    <td>Application to compute tde execution time of a software in a linux or macOS terminal</td>
+    <td>Bash script</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/dlTools">dlTools</a></th>
-    <th>Bash scripts to download files with specific extensions from a website</th>
-    <th>Bash script</th>
+    <td><a href="https://gitdub.com/humbertovarona/dlTools">dlTools</a></td>
+    <td>Bash scripts to download files witd specific extensions from a website</td>
+    <td>Bash script</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/restoreNC_Chunksizes">restoreNC_Chunksizes</a></th>
-    <th>Restores the Chunk size of NetCDF files</th>
-    <th>Bash script</th>
+    <td><a href="https://gitdub.com/humbertovarona/restoreNC_Chunksizes">restoreNC_Chunksizes</a></td>
+    <td>Restores tde Chunk size of NetCDF files</td>
+    <td>Bash script</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/EasyScreen">EasyScreen</a></th>
-    <th>Bash scripts that facilitate the use of the "screen" command through names</th>
-    <th>Bash script</th>
+    <td><a href="https://gitdub.com/humbertovarona/EasyScreen">EasyScreen</a></td>
+    <td>Bash scripts tdat facilitate tde use of tde "screen" command tdrough names</td>
+    <td>Bash script</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/conv_Weathering2NC">conv_Weathering2NC</a></th>
-    <th>Software to convert the data of the weathering processes of the PETROMAR-3D model to NetCDF format</th>
-    <th>Python</th>
+    <td><a href="https://gitdub.com/humbertovarona/conv_Weatdering2NC">conv_Weatdering2NC</a></td>
+    <td>Software to convert tde data of tde weatdering processes of tde PETROMAR-3D model to NetCDF format</td>
+    <td>Pytdon</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/MyLocalIP">MyLocalIP</a></th>
-    <th>Android application for local IPv4 and IPv6 detection</th>
-    <th>Java (Android APK)</th>
+    <td><a href="https://gitdub.com/humbertovarona/MyLocalIP">MyLocalIP</a></td>
+    <td>Android application for local IPv4 and IPv6 detection</td>
+    <td>Java (Android APK)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/CalcSeaDensity">CalcSeaDensity</a></th>
-    <th>Computes seawater density from salinity, temperature, and depth</th>
-    <th>Java (Android APK)</th>
+    <td><a href="https://gitdub.com/humbertovarona/CalcSeaDensity">CalcSeaDensity</a></td>
+    <td>Computes seawater density from salinity, temperature, and deptd</td>
+    <td>Java (Android APK)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/SaltCompute">SaltCompute</a></th>
-    <th>SaltCompute: Android application to calculate salinity from conductivity and pressure</th>
-    <th>Java (Android APK)</th>
+    <td><a href="https://gitdub.com/humbertovarona/SaltCompute">SaltCompute</a></td>
+    <td>SaltCompute: Android application to calculate salinity from conductivity and pressure</td>
+    <td>Java (Android APK)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/driftViewer">driftViewer</a></th>
-    <th>Software to extract and analyze data from NOAA drifters</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/driftViewer">driftViewer</a></td>
+    <td>Software to extract and analyze data from NOAA drifters</td>
+    <td>Matlab (Package)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/NCVerticalInterp">NCVerticalInterp</a></th>
-    <th>Vertically interpolates NetCDF files</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/NCVerticalInterp">NCVerticalInterp</a></td>
+    <td>Vertically interpolates NetCDF files</td>
+    <td>Matlab (Package)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/fcNEMOtoStd">fcNEMOtoStd</a></th>
-    <th>Format converter from NEMO model to NetCDF standard</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/fcNEMOtoStd">fcNEMOtoStd</a></td>
+    <td>Format converter from NEMO model to NetCDF standard</td>
+    <td>Matlab (Package)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/emdCompare">emdCompare</a></th>
-    <th>Software to compare Time Series and their intrinsic mode functions</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/emdCompare">emdCompare</a></td>
+    <td>Software to compare Time Series and tdeir intrinsic mode functions</td>
+    <td>Matlab (Package)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/mNC">mNC</a></th>
-    <th>A tool for Oceanographers and Meteorologists to easily create their NetCDF files using Matlab</th>
-    <th>Matlab</th>
+    <td><a href="https://gitdub.com/humbertovarona/mNC">mNC</a></td>
+    <td>A tool for Oceanographers and Meteorologists to easily create tdeir NetCDF files using Matlab</td>
+    <td>Matlab</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/CalcPlotAnomaly">CalcPlotAnomaly</a></th>
-    <th>Matlab function set for the calculation and plotting of anomalies</th>
-    <th>Matlab</th>
+    <td><a href="https://gitdub.com/humbertovarona/CalcPlotAnomaly">CalcPlotAnomaly</a></td>
+    <td>Matlab function set for tde calculation and plotting of anomalies</td>
+    <td>Matlab</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/One4All">One4All</a></th>
-    <th>RS232 Physical Port Extender for Virtual Ports</th>
-    <th>Pascal (Delphi executable)</th>
+    <td><a href="https://gitdub.com/humbertovarona/One4All">One4All</a></td>
+    <td>RS232 Physical Port Extender for Virtual Ports</td>
+    <td>Pascal (Delphi executable)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Net2Serial">Net2Serial</a></th>
-    <th>Network client to forward data to RS232 serial ports</th>
-    <th>Pascal (Delphi executable)</th>
+    <td><a href="https://gitdub.com/humbertovarona/Net2Serial">Net2Serial</a></td>
+    <td>Network client to forward data to RS232 serial ports</td>
+    <td>Pascal (Delphi executable)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/Heat-content">Heat-content</a></th>
-    <th>OHC-FOI: An algorithm for Computing the Ocean Heat Content</th>
-    <th>Matlab</th>
+    <td><a href="https://gitdub.com/humbertovarona/Heat-content">Heat-content</a></td>
+    <td>OHC-FOI: An algoritdm for Computing tde Ocean Heat Content</td>
+    <td>Matlab</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/compBuoy">compBuoy</a></th>
-    <th>Software for the validation of vertical profiles of oceanic parameters</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/compBuoy">compBuoy</a></td>
+    <td>Software for tde validation of vertical profiles of oceanic parameters</td>
+    <td>Matlab (Package)</td>
   </tr>
   <tr>
-    <th><a href="https://github.com/humbertovarona/vRivers">vRivers</a></th>
-    <th>Software for data analysis of Brazilian rivers (vRivers)</th>
-    <th>Matlab (Package)</th>
+    <td><a href="https://gitdub.com/humbertovarona/vRivers">vRivers</a></td>
+    <td>Software for data analysis of Brazilian rivers (vRivers)</td>
+    <td>Matlab (Package)</td>
   </tr>
 </table>
 </div>
