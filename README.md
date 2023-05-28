@@ -327,6 +327,78 @@
   <th><a href="https://www.udemy.com/certificate/UC-cb80c9d4-b80d-48f4-9e4b-e55f36befc8d/">Apache Spark con Python - Aprende Big Data desde Cero</a></th>
   </tr>
   </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-bb4f20cd-1e03-427c-ad75-883325a1a951/">PYSPARK: Utilizando SPARK e Python para analisar dados</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-14fb24ac-cce9-4c44-9a18-8f70b132f2af/">Curso práctico de Big Data con Hadoop y Spark desde cero</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-e8b34c7e-b74a-45be-8d7a-749668d191ca/">Domine Apache Kafka, Fundamentos e Aplicações Reais [2022]</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-77b87ef3-9c82-47d7-9ddf-07660cefe80d/">Mastering Apache Cassandra Developer and Admin from Scratch</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://mooc.ifpa.edu.br/certificate/7KgH_z_I">UX e UI Design</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-19a61a92-0d30-4187-bb88-7407e3cf7496/">The Complete C++ Developer Course</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-3bd34c34-a2c6-4337-82a6-5f2166f0c9e2/">Curso maestro de Web Scraping: Extracción de Datos de la Web</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-9af5feee-3f5a-4033-ab2a-6f9c91a151b6/">Delphi Fundamental (Desenvolva Delphi,Firebrid,Relatórios)</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-d2b3d86b-e01d-4f7b-8d94-9d426ab2335f/">C# Curso Completo: Do Básico ao Avançado!</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-d5d6c2c7-c83d-4048-92a6-93a1c17f6ab7/">Matemática Financeira Completa</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-1d7e8689-c5da-4545-9913-3bbb52f0ecec/">Python para Finanças: Análise de Dados e Machine Learning</a></th>
+  </tr>
+  </tr>
+  <th><a href="https://www.udemy.com/certificate/UC-b5700ac0-c66d-41d6-8e95-fc8892c8cacc/">Analítica de Datos para la Toma de Decisiones</a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
+  <th><a href=""></a></th>
+  </tr>
+  </tr>
   <th><a href=""></a></th>
   </tr>
   </table>
