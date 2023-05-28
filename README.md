@@ -441,49 +441,94 @@
   <th><a href="https://www.udemy.com/certificate/UC-dfed1c69-8cb4-4328-9b42-a748d93a4beb/">Reconhecimento de Emoções com TensorFlow 2.0 e Python</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-660dca4f-1090-4408-9994-4fc189017616/">GOLANG: Curso profesional de Go - De cero a Master 2022</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-cf260135-c620-4c68-9eb8-6aef5dedc127/">Complete Microsoft SQL Server Database Administration Course</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-3b4b8665-6ce8-4291-a9e4-20d9829d1f48/">Aprende Programación en Java (de Básico a Avanzado)</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://mooc.ifpa.edu.br/certificate/oxf87raD">Programação Android</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-301537b9-3bba-4837-83bb-a3f3539af28d/">Android e SQLite</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-a8834509-7b3c-4778-ae3c-de5b69e73887/">Android III avançado Mapas GPS Notificações</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-30750cf3-6e53-4b7f-bdd6-4b1a244af93f/">Curso de Python: Apps para Android, iOS, Linx, Win y Mac</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-36872813-59c8-4976-a4e8-1da69fac7bff/">Curso básico de Kotlin para Android: Fundamentos de 0 a 100</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-a48bc56c-bc87-4268-943a-7a08275718de/">Flutter: Tu guía completa de desarrollo para IOS y Android</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-55379500-3b4e-4d87-a7b8-e8b67effe694/">Curso de Dart y flutter con SQLite desde cero full stack</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-aeb3c7e9-b1f4-4de2-a81a-9c9cb5691184/">Flutter Avanzado: Lleva tu conocimiento al siguiente nível</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-aae7497a-d36e-401e-9371-c773979132c6/">Inteligência Artificial: Sistemas de Recomendação em Python</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-f97f68a0-1a66-4c27-a075-ca2eb0ce478f/">Business Intelligence: A Base Para Construir seu Primeiro BI</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-6e94e4de-e68a-4111-b8f2-aeb8ad8ebe0f/">Desarrollo de apps para iOS con SwiftUI y UIKit</a></th>
   </tr>
   <tr>
-  <th><a href=""></a></th>
+  <th><a href="https://www.udemy.com/certificate/UC-39ab2ae8-607a-4f4f-998f-0ea22eb6780b/">Oracle PL/SQL Especialista: do Básico ao Avançado - 2022</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-d796afa1-214d-4447-9129-05da89367d40/">Tableau 2022 A-Z: Hands-On Tableau Training for Data Science</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-793d4e45-7cd2-46ee-b2fe-d579715e5b0e/">Aprendendo do Zero as Ferramentas BI da ORACLE - OBIEE e ODV</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-2f3cb3b1-b692-4f1d-8d31-fabe65ea8dc5/">Aprenda CRIAR PANÉIS INCRÍVEIS de BI com OBIEE e TABLEAU</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-9967986b-9515-4aa6-9fe1-201b439ef4cb/">Microsoft Power BI - The Practical Guide [2022 EDITION]</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-5a742439-69c3-44d0-9516-be0914bdf8f4/">Desenvolvimento Web Full Stack com Python e Django</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-97b8c4d0-8a08-4f6d-b07d-005d813c6034/">PAINÉIS em BI com OBIEE (Oracle) e POWER BI (Microsoft)</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-767b487c-0b62-4426-8de0-cfee5e189a0f/">Desenvolvimento avançado de aplicações corporativas c Django</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-7a19a02f-4352-4949-8b3d-8a36768e3b01/">Mastering Data Structures & Algorithms using C and C++</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-fecd7d3a-48c0-4b4c-8b37-58b90e4849bc/">IoT Application Development with the ESP32 Using the ESP-IDF</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-0b91e9e2-49fa-4ad0-9bc3-cb5818e025f5/">Learn to Program with Processing</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-567b00e5-8d93-4ddb-bf77-524fa1713afc/">MicroPython Mega Course: Build IoT with Sensors and ESP8266</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-20df29d9-dc01-4ca2-849a-1d116c23a831/">Arquitetura e Programação de GPUs</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-09b1035e-6f84-4e50-aa87-c54cda18ba32/">Modelagem de Dados UML (Análise&Projeto Orientado a Objetos)</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-f9c2f355-6c8e-42c1-9804-d5bfec903145/">Desenvolvimento Web Avançado com PHP, Laravel e Vue.JS)</a></th>
+  </tr>
+  <tr>
+  <th><a href="https://www.udemy.com/certificate/UC-57c23b07-4b7d-48c9-a8e6-b3041330d490/">Learn DevOps: Docker, Kubernetes, Terraform and Azure DevOps</a></th>
   </tr>
   <tr>
   <th><a href=""></a></th>
