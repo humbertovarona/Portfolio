@@ -35,7 +35,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/folder_latex_tex_icon_161289.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/eclipse_94656.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/1504/PNG/512/textxpascal_103617.png" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_spark_logo_icon_170560.png" width="50"/> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/apache_nifi_logo_icon_168614.png" width="50"/> <img src="https://simpleicons.org/icons/mqtt.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="50"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50"/>
 
 ---
-## Repository list
+## Developed software list
 
 <div style="overflow-x: auto;">
 <table style="width:100%">
@@ -277,4 +277,19 @@
 </table>
 </div>
   
-  
+---
+## Certifications
+
+<div style="overflow-x: auto;">
+<table style="width:100%">
+  <tr>
+    <th>Certification</th>
+  </tr>  
+  <tr>
+    <th><a href="https://www.udemy.com/certificate/UC-0feea133-aeb4-46ee-b088-9a49dd83e292/">MongoDB - The Complete Developer's Guide 2022</a></th>
+  </tr> 
+  <tr>
+    <th><a href="https://www.udemy.com/certificate/UC-aef7c557-f43e-4cd7-bcc3-19fe8c01cddd/">DBA PostgreSQL</a></th>
+  </tr>
+  </table>
+</div>
