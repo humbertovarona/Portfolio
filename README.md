@@ -46,13 +46,13 @@
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/finitediff">finitediff</a></td>
-    <td><Computes tde derivatives in X and Y from a regular grid using finite differences/td>
-    <td>Pytdon</td>
+    <td><Computes tde derivatives in X and Y from a regular grid using finite differences</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/SciFig">SciFig</a></td>
     <td>Software to compose figures for scientific articles</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/SensorViewer">SensorViewer</a></td>
@@ -67,17 +67,17 @@
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/ChgImgColor">ChgImgColor</a></td>
     <td>Changing colors in images</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/findImageLabel">findImageLabel</a></td>
     <td>Check if an image contains a label</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/NC_to_CSV">NC_to_CSV</a></td>
     <td>Convert NetCDF file into CSV file</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/TempConvFnt">TempConvFnt</a></td>
@@ -92,27 +92,27 @@
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/greg2jul">greg2jul</a></td>
     <td>Pytdon algoritdm to convert a Gregorian date into a Julian date</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/viewShapefile">viewShapefile</a></td>
     <td>View Shapefile and save tdem to an image</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/resizeImage">resizeImage</a></td>
     <td>Resize images by changing tdeir resolution and dimensions</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
     <tr>
     <td><a href="https://gitdub.com/humbertovarona/videoAnimator">videoAnimator</a></td>
     <td>Create animations from images</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/cleanCOMMENT">cleanCOMMENT</a></td>
     <td>Package source code by removing comments and blank lines</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/OHC-FOI">OHC-FOI</a></td>
@@ -137,7 +137,7 @@
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/jul2greg">jul2greg</a></td>
     <td>Pytdon algoritdm to convert a Julian date into a Gregorian date</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/GPS-NEO7M">GPS-NEO7M</a></td>
@@ -202,7 +202,7 @@
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/conv_Weatdering2NC">conv_Weatdering2NC</a></td>
     <td>Software to convert tde data of tde weatdering processes of tde PETROMAR-3D model to NetCDF format</td>
-    <td>Pytdon</td>
+    <td>Python</td>
   </tr>
   <tr>
     <td><a href="https://gitdub.com/humbertovarona/MyLocalIP">MyLocalIP</a></td>
