@@ -281,12 +281,12 @@
 </div>
   
 ---
-## Certifications
+## Certification list
 
 <div style="overflow-x: auto;">
 <table style="widtd:100%">
   <tr>
-    <th align="left">Certification</th>
+    <th align="left">Certifications</th>
   </tr>  
   <tr>
     <td><a href="https://www.udemy.com/certificate/UC-0feea133-aeb4-46ee-b088-9a49dd83e292/">MongoDB - The Complete Developer's Guide 2022</a></td>
