@@ -48,6 +48,11 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/pCurveFit">pCurveFit</a></td>
+    <td>Find the best function that fits a time series</td>
+    <td>Python</td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/humbertovarona/pCalcGeodist">pCalcGeodist</a></br>
       <a href="https://github.com/humbertovarona/jlCalcGeodist">jlCalcGeodist</a></br>
