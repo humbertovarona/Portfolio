@@ -49,12 +49,12 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/humbertovarona/pCalcGeodist">pCalcGeodist</a>
-      <a href="https://github.com/humbertovarona/jlCalcGeodist">jlCalcGeodist</a>
-      <a href="https://github.com/humbertovarona/perlCalcGeodist">perlCalcGeodist</a>
-      <a href="https://github.com/humbertovarona/cCalcGeodist">cCalcGeodist</a>
-      <a href="https://github.com/humbertovarona/RCalcGeodist">RCalcGeodist</a>
-      <a href="https://github.com/humbertovarona/pasCalcGeodist">pasCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/pCalcGeodist">pCalcGeodist</a></br>
+      <a href="https://github.com/humbertovarona/jlCalcGeodist">jlCalcGeodist</a></br>
+      <a href="https://github.com/humbertovarona/perlCalcGeodist">perlCalcGeodist</a></br>
+      <a href="https://github.com/humbertovarona/cCalcGeodist">cCalcGeodist</a></br>
+      <a href="https://github.com/humbertovarona/RCalcGeodist">RCalcGeodist</a></br>
+      <a href="https://github.com/humbertovarona/pasCalcGeodist">pasCalcGeodist</a></br>
       <a href="https://github.com/humbertovarona/forCalcGeodist">forCalcGeodist</a>
     </td>
     <td>Compute the distance between two geographic points</td>
