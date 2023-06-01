@@ -48,6 +48,19 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td>
+      <a href="https://github.com/humbertovarona/pCalcGeodist">pCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/jlCalcGeodist">jlCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/perlCalcGeodist">perlCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/cCalcGeodist">cCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/RCalcGeodist">RCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/pasCalcGeodist">pasCalcGeodist</a>
+      <a href="https://github.com/humbertovarona/forCalcGeodist">forCalcGeodist</a>
+    </td>
+    <td>Compute the distance between two geographic points</td>
+    <td>Python, Julia, Raku, C, R, Pascal, and Fortran 90</td>
+  </tr>
+  <tr>
     <td><a href="https://gitdub.com/humbertovarona/finitediff">finitediff</a></td>
     <td>Computes tde derivatives in X and Y from a regular grid using finite differences</td>
     <td>Python</td>
