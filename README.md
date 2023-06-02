@@ -48,6 +48,11 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/QualisFox">QualisFox</a></td>
+    <td>Firefox extension to determine the Qualis of a scientific journal (sample) </td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/pCurveFit">pCurveFit</a></td>
     <td>Find the best function that fits a time series</td>
     <td>Python</td>
