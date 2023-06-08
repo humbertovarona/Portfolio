@@ -48,19 +48,29 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/TempConv">TempConv</a></td>
+    <td>Temperature Converter (Chrome extension)</td>
+    <td>Javascript, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/getDOIMetadata">getDOIMetadata</a></td>
+    <td>DOI Metadata Extractor (Chrome extension)</td>
+    <td>Javascript, HTML, CSS</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/SearchInBookmarks">SearchInBookmarks</a></td>
-    <td>Quick search in the bookmark list (Chrome extension) </td>
-    <td>Javascript</td>
+    <td>Quick search in the bookmark list (Chrome extension)</td>
+    <td>Javascript, HTML, CSS</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/QuickLink">QuickLink</a></td>
     <td>Search and fast load links (Chrome extension)</td>
-    <td>Javascript</td>
+    <td>Javascript, HTML, CSS</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/QualisFox">QualisFox</a></td>
     <td>Firefox extension to determine the Qualis of a scientific journal (sample) </td>
-    <td>Javascript</td>
+    <td>Javascript, HTML, CSS</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/pCurveFit">pCurveFit</a></td>
