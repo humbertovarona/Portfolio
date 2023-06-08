@@ -48,6 +48,11 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/SearchInBookmarks">SearchInBookmarks</a></td>
+    <td>Quick search in the bookmark list (Chrome extension) </td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/QuickLink">QuickLink</a></td>
     <td>Search and fast load links (Chrome extension)</td>
     <td>Javascript</td>
