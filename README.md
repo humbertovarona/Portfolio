@@ -70,7 +70,7 @@
   <tr>
     <td><a href="https://github.com/humbertovarona/QualisFox">QualisFox</a></td>
     <td>Firefox extension to determine the Qualis of a scientific journal (sample) </td>
-    <td>Javascript, HTML, CSS</td>
+    <td>Javascript, HTML</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/pCurveFit">pCurveFit</a></td>
