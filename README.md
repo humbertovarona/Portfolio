@@ -583,10 +583,10 @@
   <td><a href="https://www.udemy.com/certificate/UC-2b8bc7ce-0d51-4652-882e-78531b024228/">Gestão Ágil com Scrum, Kanban & Nexus: O Guia Definitivo)</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-eae0b8a8-7b9e-4c3a-9e51-4c5231d14e35/"></a>Curso de Python: Apps para Android, iOS, Linx, Win, e Mac</td>
+  <td><a href="https://www.udemy.com/certificate/UC-eae0b8a8-7b9e-4c3a-9e51-4c5231d14e35/">Curso de Python: Apps para Android, iOS, Linx, Win, e Mac</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-34615dc4-73bd-4b3f-8a64-1ab22b78a58d/"></a>Flutter Web: Aplicaciones y páginas web profesionales</td>
+  <td><a href="https://www.udemy.com/certificate/UC-34615dc4-73bd-4b3f-8a64-1ab22b78a58d/">Flutter Web: Aplicaciones y páginas web profesionales</a></td>
   </tr>
   </table>
 </div>
