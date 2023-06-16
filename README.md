@@ -48,6 +48,11 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/BriefNotes">BriefNotes</a></td>
+    <td>Extension to take brief notes in Chrome</td>
+    <td>Javascript, HTML, CSS</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/TempConv">TempConv</a></td>
     <td>Temperature Converter (Chrome extension)</td>
     <td>Javascript, HTML, CSS</td>
