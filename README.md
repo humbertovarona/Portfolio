@@ -593,5 +593,8 @@
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-34615dc4-73bd-4b3f-8a64-1ab22b78a58d/">Flutter Web: Aplicaciones y páginas web profesionales</a></td>
   </tr>
+  <tr>
+  <td><a href="https://www.udemy.com/certificate/UC-83976f23-4a04-4a38-b39a-4c408f9c894e/">Inteligência Artificial aplicada para Empresas e Negócios</a></td>
+  </tr>
   </table>
 </div>
