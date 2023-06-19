@@ -596,5 +596,8 @@
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-83976f23-4a04-4a38-b39a-4c408f9c894e/">Inteligência Artificial aplicada para Empresas e Negócios</a></td>
   </tr>
+  <tr>
+  <td><a href="https://www.udemy.com/certificate/UC-4b661c8c-c3b6-4802-9c61-21e8086bdb57/">Formação Cientista de Dados: Tópicos Avançados</a></td>
+  </tr>
   </table>
 </div>
