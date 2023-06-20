@@ -53,6 +53,26 @@
     <td>Javascript, HTML, CSS</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/SPUtils">SPUtils</a></td>
+    <td>Delphi functions to read information from RS232 ports</td>
+    <td>Pascal (Delphi)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/OS_Functions">OS_Functions</a></td>
+    <td>Win32 API access Delphi functions</td>
+    <td>Pascal (Delphi)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/ArdCommUtils">ArdCommUtils</a></td>
+    <td>Communication functions with Arduino</td>
+    <td>Pascal (Delphi)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/DephiSplash">DephiSplash</a></td>
+    <td>Simple Splash example in delphi</td>
+    <td>Pascal (Delphi)</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/TempConv">TempConv</a></td>
     <td>Temperature Converter (Chrome extension)</td>
     <td>Javascript, HTML, CSS</td>
