@@ -73,6 +73,11 @@
     <td>Pascal (Delphi)</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/SQLUserControl">SQLUserControl</a></td>
+    <td>User control in SQL</td>
+    <td>SQL</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/TempConv">TempConv</a></td>
     <td>Temperature Converter (Chrome extension)</td>
     <td>Javascript, HTML, CSS</td>
