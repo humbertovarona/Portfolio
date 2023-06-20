@@ -624,5 +624,8 @@
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-4b661c8c-c3b6-4802-9c61-21e8086bdb57/">Formação Cientista de Dados: Tópicos Avançados</a></td>
   </tr>
+  <tr>
+  <td><a href="https://www.udemy.com/certificate/UC-1f97bf57-5f02-4c94-a661-07abb0a55fb3/">Raspberry Pi PICO an introduction with MicroPython</a></td>
+  </tr>
   </table>
 </div>
