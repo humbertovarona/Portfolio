@@ -172,7 +172,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></td>
-    <td>Pytdon algoritdm to convert a Gregorian date into a Julian date</td>
+    <td>Python algoritdm to convert a Gregorian date into a Julian date</td>
     <td>Python</td>
   </tr>
   <tr>
@@ -217,7 +217,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/jul2greg">jul2greg</a></td>
-    <td>Pytdon algoritdm to convert a Julian date into a Gregorian date</td>
+    <td>Python algoritdm to convert a Julian date into a Gregorian date</td>
     <td>Python</td>
   </tr>
   <tr>
@@ -381,10 +381,10 @@
   <td><a href="https://www.udemy.com/certificate/UC-a196cc51-f614-4691-8c2d-6b8cbcb3a234/">MACHINE LEARNING 2022 Y REDES NEURONALES CON PYTHON DE CERO</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-871bb1a4-4f25-4e18-8370-5c8f7892bb48/">Curso avanzado de estadística multivariante con R y Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-871bb1a4-4f25-4e18-8370-5c8f7892bb48/">Curso avanzado de estadística multivariante con R y Python</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-87563bbb-9c6e-4ad3-b7b8-7491cb067932/">Pytdon Fullstack Senior Developer</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-87563bbb-9c6e-4ad3-b7b8-7491cb067932/">Python Fullstack Senior Developer</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-29b64ab4-e860-435c-8d96-94a41c057485/">Estatística para Ciência de Dados e Machine Learning</a></td>
@@ -393,7 +393,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-4fd6568f-39b9-4bfa-879e-e3d844fbb8c2/">DBA MySQL</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-f91287b4-fb98-4a0b-ae56-b7fce3bf9b4f/">Certificação Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-f91287b4-fb98-4a0b-ae56-b7fce3bf9b4f/">Certificação Python</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-cfc49076-e746-4b18-8869-378bd296990c/">Formação Cientista de Dados: O Curso Completo [2022]</a></td>
@@ -402,13 +402,13 @@
   <td><a href="https://www.udemy.com/certificate/UC-97ced390-3b61-4d06-8bc6-ceaf1c2cdd8c/">Ciência de Dados para Empresas e Negócios</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-2406114d-d293-4c30-aff6-678bb0353ad6/">Deep Learning de A a Z:redes neuronales en Pytdon desde cero</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-2406114d-d293-4c30-aff6-678bb0353ad6/">Deep Learning de A a Z:redes neuronales en Python desde cero</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-cb80c9d4-b80d-48f4-9e4b-e55f36befc8d/">Apache Spark con Pytdon - Aprende Big Data desde Cero</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-cb80c9d4-b80d-48f4-9e4b-e55f36befc8d/">Apache Spark con Python - Aprende Big Data desde Cero</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-bb4f20cd-1e03-427c-ad75-883325a1a951/">PYSPARK: Utilizando SPARK e Pytdon para analisar dados</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-bb4f20cd-1e03-427c-ad75-883325a1a951/">PYSPARK: Utilizando SPARK e Python para analisar dados</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-14fb24ac-cce9-4c44-9a18-8f70b132f2af/">Curso práctico de Big Data con Hadoop y Spark desde cero</a></td>
@@ -438,7 +438,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-d5d6c2c7-c83d-4048-92a6-93a1c17f6ab7/">Matemática Financeira Completa</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-1d7e8689-c5da-4545-9913-3bbb52f0ecec/">Pytdon para Finanças: Análise de Dados e Machine Learning</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-1d7e8689-c5da-4545-9913-3bbb52f0ecec/">Python para Finanças: Análise de Dados e Machine Learning</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-b5700ac0-c66d-41d6-8e95-fc8892c8cacc/">Analítica de Datos para la Toma de Decisiones</a></td>
@@ -471,7 +471,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-325a8106-c841-4973-8990-a593f3c76a47/">Apache NiFi - Zero to Hero (Fundamentos)</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-62d63246-013e-4a7a-8e46-534a247e5dd4/">NODE MCU:ESP 8266 - Micro Pytdon Network Programming and IOT</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-62d63246-013e-4a7a-8e46-534a247e5dd4/">NODE MCU:ESP 8266 - Micro Python Network Programming and IOT</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-8e2bf00a-ba9e-48a9-9269-885705385fe4/">Aprende Proxmox desde cero!</a></td>
@@ -483,16 +483,16 @@
   <td><a href="https://www.udemy.com/certificate/UC-dcb54c61-17d5-4438-8775-4a2fe5eef73d/">Docker and Kubernetes: The Complete Guide</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-b262d205-e5f5-4039-9dd5-58300e43b0da/">Inteligencia Artificial y Deep Learning desde cero en Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-b262d205-e5f5-4039-9dd5-58300e43b0da/">Inteligencia Artificial y Deep Learning desde cero en Python</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-5aab1e46-b832-444d-9b39-4905543902be/">Pronósticos de Series de Tiempo con Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-5aab1e46-b832-444d-9b39-4905543902be/">Pronósticos de Series de Tiempo con Python</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-f452102a-d2dc-4706-b9bc-94af919c6799/">Pascal, Lazarus e MariaDB</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-d0876c41-985a-4ce6-82d1-8860891dff97/">Deep Learning con Pytdon y Keras. Redes Neuronales avanzado</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-d0876c41-985a-4ce6-82d1-8860891dff97/">Deep Learning con Python y Keras. Redes Neuronales avanzado</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-b18bd12a-5f1c-4cc3-9ccf-a2fd542714b1/">Tensorflow 2.0: Guía completa para el Nuevo Tensorflow</a></td>
@@ -504,22 +504,22 @@
   <td><a href="https://www.udemy.com/certificate/UC-dd080368-c32a-44b5-94ec-d86b64aeecd1/">Linux Redhat Certified System Administrator (RHCSA - EX200)</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-1025b64f-3224-4487-be10-6f9aaeb3a05b/">TensorFlow, Deep Learning e Pytdon: Construa um Chatbot</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-1025b64f-3224-4487-be10-6f9aaeb3a05b/">TensorFlow, Deep Learning e Python: Construa um Chatbot</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-10b03499-9af1-4d00-8744-8128289ed1ed/">Curso Práctico de Qt/PySide: Interfaces Gráficas con Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-10b03499-9af1-4d00-8744-8128289ed1ed/">Curso Práctico de Qt/PySide: Interfaces Gráficas con Python</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-4ea81e32-26d6-4427-ac19-f37b9967d5f3/">Procesamiento del Lenguaje Natural Moderno en Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-4ea81e32-26d6-4427-ac19-f37b9967d5f3/">Procesamiento del Lenguaje Natural Moderno en Python</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-5a365a1d-1191-4909-a739-606e7334b417/">Análisis de Sentimientos en Redes Sociales con Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-5a365a1d-1191-4909-a739-606e7334b417/">Análisis de Sentimientos en Redes Sociales con Python</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-19984baf-a315-41d5-8648-aa3ff9587d18/">Aprenda Redis</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-dfed1c69-8cb4-4328-9b42-a748d93a4beb/">Reconhecimento de Emoções com TensorFlow 2.0 e Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-dfed1c69-8cb4-4328-9b42-a748d93a4beb/">Reconhecimento de Emoções com TensorFlow 2.0 e Python</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-660dca4f-1090-4408-9994-4fc189017616/">GOLANG: Curso profesional de Go - De cero a Master 2022</a></td>
@@ -540,7 +540,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-a8834509-7b3c-4778-ae3c-de5b69e73887/">Android III avançado Mapas GPS Notificações</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-30750cf3-6e53-4b7f-bdd6-4b1a244af93f/">Curso de Pytdon: Apps para Android, iOS, Linx, Win y Mac</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-30750cf3-6e53-4b7f-bdd6-4b1a244af93f/">Curso de Python: Apps para Android, iOS, Linx, Win y Mac</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-36872813-59c8-4976-a4e8-1da69fac7bff/">Curso básico de Kotlin para Android: Fundamentos de 0 a 100</a></td>
@@ -555,7 +555,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-aeb3c7e9-b1f4-4de2-a81a-9c9cb5691184/">Flutter Avanzado: Lleva tu conocimiento al siguiente nível</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-aae7497a-d36e-401e-9371-c773979132c6/">Inteligência Artificial: Sistemas de Recomendação em Pytdon</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-aae7497a-d36e-401e-9371-c773979132c6/">Inteligência Artificial: Sistemas de Recomendação em Python</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-f97f68a0-1a66-4c27-a075-ca2eb0ce478f/">Business Intelligence: A Base Para Construir seu Primeiro BI</a></td>
@@ -579,7 +579,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-9967986b-9515-4aa6-9fe1-201b439ef4cb/">Microsoft Power BI - The Practical Guide [2022 EDITION]</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-5a742439-69c3-44d0-9516-be0914bdf8f4/">Desenvolvimento Web Full Stack com Pytdon e Django</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-5a742439-69c3-44d0-9516-be0914bdf8f4/">Desenvolvimento Web Full Stack com Python e Django</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-97b8c4d0-8a08-4f6d-b07d-005d813c6034/">PAINÉIS em BI com OBIEE (Oracle) e POWER BI (Microsoft)</a></td>
@@ -597,7 +597,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-0b91e9e2-49fa-4ad0-9bc3-cb5818e025f5/">Learn to Program witd Processing</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-567b00e5-8d93-4ddb-bf77-524fa1713afc/">MicroPytdon Mega Course: Build IoT witd Sensors and ESP8266</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-567b00e5-8d93-4ddb-bf77-524fa1713afc/">MicroPython Mega Course: Build IoT witd Sensors and ESP8266</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-20df29d9-dc01-4ca2-849a-1d116c23a831/">Arquitetura e Programação de GPUs</a></td>
