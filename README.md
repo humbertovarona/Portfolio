@@ -53,6 +53,16 @@
     <td>Golang</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/mStatGraph">mStatGraph</a></td>
+    <td>Plotting and Statistical Analysis for Oceanographers, Meteorologists and Ecologists</td>
+    <td>Matlab 2021b package</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/DSCompare">DSCompare</a></td>
+    <td>Software to analyze, compare and validate analysis and reanalysis datasets with an observed dataset</td>
+    <td>Matlab 2021b package</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/BriefNotes">BriefNotes</a></td>
     <td>Extension to take brief notes in Chrome</td>
     <td>Javascript, HTML, CSS</td>
