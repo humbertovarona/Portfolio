@@ -640,8 +640,10 @@
   <td><a href="https://www.udemy.com/certificate/UC-4b661c8c-c3b6-4802-9c61-21e8086bdb57/">Formação Cientista de Dados: Tópicos Avançados</a></td>
   </tr>
   <tr>
+  </table>
+</div>
 
-## Journal published software list
+## Journal-published software list
 
 <div style="overflow-x: auto;">
 <table style="width:100%">
@@ -655,9 +657,9 @@
       <td><a href="https://doi.org/10.1016/j.simpa.2022.100448">10.1016/j.simpa.2022.100448</a></td>
     </tr>
   <tr>
-      <td>Software Impacts</td>
-      <td>mStatGraph: Exploration and statistical treatment software to process, compute and validate oceanographic data</td>
-      <td><a href="https://doi.org/10.1016/j.simpa.2023.100571">10.1016/j.simpa.2023.100571</a></td>
-    </tr>
-  </table>
+    <td>Software Impacts</td>
+    <td>mStatGraph: Exploration and statistical treatment software to process, compute and validate oceanographic data</td>
+    <td><a href="https://doi.org/10.1016/j.simpa.2023.100571">10.1016/j.simpa.2023.100571</a></td>
+  </tr>
+</table>
 </div>
