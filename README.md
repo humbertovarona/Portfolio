@@ -652,12 +652,12 @@
     <th align="left">Title</td>
     <th align="center">DOI</td>
     <tr>
-      <td>Software Impacts</td>
+      <td><a href="https://www.sciencedirect.com/journal/software-impacts">Software Impacts</a></td>
       <td>CalcPlotAnomaly: A set of functions in MATLAB for the computation and plotting of anomalies of oceanographic and meteorological parameters</td>
       <td><a href="https://doi.org/10.1016/j.simpa.2022.100448">10.1016/j.simpa.2022.100448</a></td>
     </tr>
   <tr>
-    <td>Software Impacts</td>
+    <td><a href="https://www.sciencedirect.com/journal/software-impacts">Software Impacts</a></td>
     <td>mStatGraph: Exploration and statistical treatment software to process, compute and validate oceanographic data</td>
     <td><a href="https://doi.org/10.1016/j.simpa.2023.100571">10.1016/j.simpa.2023.100571</a></td>
   </tr>
