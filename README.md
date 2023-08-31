@@ -41,7 +41,7 @@
 ## Developed software list
 
 <div style="overflow-x: auto;">
-<table style="widtd:100%">
+<table style="width:100%">
   <tr>
     <th align="left">Repository name</td>
     <th align="left">Description</td>
@@ -182,7 +182,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/greg2jul">greg2jul</a></td>
-    <td>Python algoritdm to convert a Gregorian date into a Julian date</td>
+    <td>Python algorithm to convert a Gregorian date into a Julian date</td>
     <td>Python</td>
   </tr>
   <tr>
@@ -207,7 +207,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/OHC-FOI">OHC-FOI</a></td>
-    <td>An algoritdm for Computing tde Ocean Heat Content</td>
+    <td>An algorithm for Computing tde Ocean Heat Content</td>
     <td>Matlab</td>
   </tr>
   <tr>
@@ -227,7 +227,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/jul2greg">jul2greg</a></td>
-    <td>Python algoritdm to convert a Julian date into a Gregorian date</td>
+    <td>Python algorithm to convert a Julian date into a Gregorian date</td>
     <td>Python</td>
   </tr>
   <tr>
@@ -237,37 +237,37 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/Screen16x2">Screen16x2</a></td>
-    <td>Simple tests witd Screen 16x2 and random numbers</td>
+    <td>Simple tests with Screen 16x2 and random numbers</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/Adafruit_BME280">Adafruit_BME280</a></td>
-    <td>Testing witd tde Adafruit BME280 shield on Arduino</td>
+    <td>Testing with the Adafruit BME280 shield on Arduino</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/ArduinoWebServer_W5100">ArduinoWebServer_W5100</a></td>
-    <td>Arduino WebServer witd W5100 shield</td>
+    <td>Arduino WebServer with W5100 shield</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/LDRsensor">LDRsensor</a></td>
-    <td>LDR witd LCD screen 16x2 on Arduino</td>
+    <td>LDR with LCD screen 16x2 on Arduino</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/GPSLogger">GPSLogger</a></td>
-    <td>GPS Logger witd SD card on Arduino</td>
+    <td>GPS Logger with SD card on Arduino</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/Charge_level_meter">Charge_level_meter</a></td>
-    <td>Charge level meter in 9v batteries witd Arduino</td>
+    <td>Charge level meter in 9v batteries with Arduino</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/Pressure_sensor_12Bar">Pressure_sensor_12Bar</a></td>
-    <td>Pressure sensor test witd GPS on Arduino</td>
+    <td>Pressure sensor test with GPS on Arduino</td>
     <td>C++ (Arduino)</td>
   </tr>
   <tr>
@@ -277,7 +277,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/dlTools">dlTools</a></td>
-    <td>Bash scripts to download files witd specific extensions from a website</td>
+    <td>Bash scripts to download files with specific extensions from a website</td>
     <td>Bash script</td>
   </tr>
   <tr>
@@ -352,7 +352,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/humbertovarona/Heat-content">Heat-content</a></td>
-    <td>OHC-FOI: An algoritdm for Computing tde Ocean Heat Content</td>
+    <td>OHC-FOI: An algorithm for Computing tde Ocean Heat Content</td>
     <td>Matlab</td>
   </tr>
   <tr>
@@ -383,7 +383,7 @@
     <td><a href="https://www.udemy.com/certificate/UC-aef7c557-f43e-4cd7-bcc3-19fe8c01cddd/">DBA PostgreSQL</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.udemy.com/certificate/UC-d67932f7-2c36-400e-a463-0ff42f6a4693/">Data Science using Machine Learning Algoritdm witd Big Data</a></td>
+    <td><a href="https://www.udemy.com/certificate/UC-d67932f7-2c36-400e-a463-0ff42f6a4693/">Data Science using Machine Learning Algorithm with Big Data</a></td>
   </tr>
   <td><a href="https://www.udemy.com/certificate/UC-9ea9c9b9-8e84-4968-8447-e7af8496f049">Utilizar Redes Neuronales para predecir Series Temporales</a></td>
   </tr>
@@ -454,7 +454,7 @@
   <td><a href="https://www.udemy.com/certificate/UC-b5700ac0-c66d-41d6-8e95-fc8892c8cacc/">Analítica de Datos para la Toma de Decisiones</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-91eeb970-8ef6-444b-8bc5-b02595d6fe26/">Linux Administration witd Troubleshooting Skills: Hands-On</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-91eeb970-8ef6-444b-8bc5-b02595d6fe26/">Linux Administration with Troubleshooting Skills: Hands-On</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-7119293f-be5c-4c5e-ab28-ce88e000d2f2/">Instalación y configuración de Windows Server 2016 / 2019</a></td>
@@ -598,16 +598,16 @@
   <td><a href="https://www.udemy.com/certificate/UC-767b487c-0b62-4426-8de0-cfee5e189a0f/">Desenvolvimento avançado de aplicações corporativas c Django</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-7a19a02f-4352-4949-8b3d-8a36768e3b01/">Mastering Data Structures & Algoritdms using C and C++</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-7a19a02f-4352-4949-8b3d-8a36768e3b01/">Mastering Data Structures & Algorithms using C and C++</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-fecd7d3a-48c0-4b4c-8b37-58b90e4849bc/">IoT Application Development witd tde ESP32 Using tde ESP-IDF</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-fecd7d3a-48c0-4b4c-8b37-58b90e4849bc/">IoT Application Development with tde ESP32 Using tde ESP-IDF</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-0b91e9e2-49fa-4ad0-9bc3-cb5818e025f5/">Learn to Program witd Processing</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-0b91e9e2-49fa-4ad0-9bc3-cb5818e025f5/">Learn to Program with Processing</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-567b00e5-8d93-4ddb-bf77-524fa1713afc/">MicroPython Mega Course: Build IoT witd Sensors and ESP8266</a></td>
+  <td><a href="https://www.udemy.com/certificate/UC-567b00e5-8d93-4ddb-bf77-524fa1713afc/">MicroPython Mega Course: Build IoT with Sensors and ESP8266</a></td>
   </tr>
   <tr>
   <td><a href="https://www.udemy.com/certificate/UC-20df29d9-dc01-4ca2-849a-1d116c23a831/">Arquitetura e Programação de GPUs</a></td>
