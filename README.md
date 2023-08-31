@@ -640,7 +640,24 @@
   <td><a href="https://www.udemy.com/certificate/UC-4b661c8c-c3b6-4802-9c61-21e8086bdb57/">Formação Cientista de Dados: Tópicos Avançados</a></td>
   </tr>
   <tr>
-  <td><a href="https://www.udemy.com/certificate/UC-1f97bf57-5f02-4c94-a661-07abb0a55fb3/">Raspberry Pi PICO an introduction with MicroPython</a></td>
-  </tr>
+
+## Journal published software list
+
+<div style="overflow-x: auto;">
+<table style="width:100%">
+  <tr>
+    <th align="left">Journale</td>
+    <th align="left">Title</td>
+    <th align="center">DOI</td>
+    <tr>
+      <td>Software Impacts</td>
+      <td>CalcPlotAnomaly: A set of functions in MATLAB for the computation and plotting of anomalies of oceanographic and meteorological parameters</td>
+      <td><a href="https://doi.org/10.1016/j.simpa.2022.100448">10.1016/j.simpa.2022.100448</a></td>
+    </tr>
+  <tr>
+      <td>Software Impacts</td>
+      <td>mStatGraph: Exploration and statistical treatment software to process, compute and validate oceanographic data</td>
+      <td><a href="https://doi.org/10.1016/j.simpa.2023.100571">10.1016/j.simpa.2023.100571</a></td>
+    </tr>
   </table>
 </div>
