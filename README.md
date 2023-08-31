@@ -648,7 +648,7 @@
 <div style="overflow-x: auto;">
 <table style="width:100%">
   <tr>
-    <th align="left">Journale</td>
+    <th align="left">Journal</td>
     <th align="left">Title</td>
     <th align="center">DOI</td>
     <tr>
