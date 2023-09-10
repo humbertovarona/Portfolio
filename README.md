@@ -666,5 +666,10 @@
     <td>mStatGraph: Exploration and statistical treatment software to process, compute and validate oceanographic data</td>
     <td><a href="https://doi.org/10.1016/j.simpa.2023.100571">10.1016/j.simpa.2023.100571</a></td>
   </tr>
+  <tr>
+    <td><a href="https://www.sciencedirect.com/science/article/pii/S266596382300115X">Software Impacts</a></td>
+    <td>DSCompare: Unleashing the potential of ocean and atmospheric data with a comparative analysis software</td>
+    <td><a href="https://doi.org/10.1016/j.simpa.2023.100578">10.1016/j.simpa.2023.100578</a></td>
+  </tr>
 </table>
 </div>
