@@ -48,6 +48,11 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/CurrSpeedformDrifter">CurrSpeedformDrifter</a></td>
+    <td>Computes drifter speeds</td>
+    <td>Python</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/getDataTrack">getDataTrack</a></td>
     <td>Extract data from a NetCDF file via a trajectory</td>
     <td>Python</td>
