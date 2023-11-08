@@ -48,6 +48,66 @@
     <th align="center">Language</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/table2x">table2x</a></td>
+    <td>Convert SQLITE tables to CSV, MS Excel, MS Word, ODS, JSON, and LaTex</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/fakenewsDetector_trainer">fakenewsDetector_trainer</a></td>
+    <td>Train models for the detection of fake news through 3 artificial neural network architectures</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/genClientFAKE">genClientFAKE</a></td>
+    <td>Generate SQLite database with fake client</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/combine_common_column">combine_common_column</a></td>
+    <td>Simple function to combine two csv files with a common column</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/homogenize_data">homogenize_data</a></td>
+    <td>Simple function to homogenize data in columns</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/CompWave">CompWave</a></td>
+    <td>Compute wave parameters</td>
+    <td>Delphi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/CompSand">CompSand</a></td>
+    <td>Calculate sedimentation coefficients from two bathymetries from different years</td>
+    <td>Delphi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/CIWind">CIWind</a></td>
+    <td>Compute wind intensity</td>
+    <td>Delphi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/CFetch">CFetch</a></td>
+    <td>Compute wind fetch</td>
+    <td>Delphi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/MatrixOP">MatrixOP</a></td>
+    <td>Operations with matrices</td>
+    <td>Delphi</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/MakeMapsC">MakeMapsC</a></td>
+    <td>Draw maps in C</td>
+    <td>C++</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/humbertovarona/dxfout">dxfout</a></td>
+    <td>Write simple DXF files </td>
+    <td>C</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/humbertovarona/CurrSpeedformDrifter">CurrSpeedformDrifter</a></td>
     <td>Computes drifter speeds</td>
     <td>Python</td>
