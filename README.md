@@ -53,6 +53,16 @@
     <td>Python</td>
   </tr>
   <tr>
+    <td><a href="https://github.com/humbertovarona/text2sqlite">text2sqlite</a></td>
+    <td>Convert CSV files to SQLite</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <tr>
+    <td><a href="https://github.com/humbertovarona/getNEWS">getNEWS</a></td>
+    <td>Create a database of news headlines using the https://newsapi.org/</td>
+    <td>Python</td>
+  </tr>
     <td><a href="https://github.com/humbertovarona/fakenewsDetector_trainer">fakenewsDetector_trainer</a></td>
     <td>Train models for the detection of fake news through 3 artificial neural network architectures</td>
     <td>Python</td>
